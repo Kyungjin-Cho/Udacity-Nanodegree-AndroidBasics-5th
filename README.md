@@ -1,6 +1,10 @@
 # Udacity-Nanodegree-AndroidBasics-5th
 This repository will be used for the '5th Project: Tour Guide App.'
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56642855/195652150-f3d13778-e02c-4cdc-add2-c87496ab9f9d.gif", height="450px">
+</p>
+
 ## Project Overview
 > The final project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making your own multi-screen Android app to share your knowledge about a city you are very familiar with.  
 The goal is to create a Tour Guide App which presents relevant information to a user who’s visiting your city. The app can list top attractions, restaurants, public places, or events for the city. It can contain all the best known secrets that only locals know. It’s up to you which categories you want to provide, as well as what information to provide in each category.
